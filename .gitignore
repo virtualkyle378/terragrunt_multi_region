@@ -1,0 +1,10 @@
+.idea
+.terraform
+plan.plan
+terraform.tfvars
+*.zip
+.terragrunt-cache
+graph.svg
+plan.json
+*_graph.png
+*.tar.gz
